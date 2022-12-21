@@ -1,0 +1,28 @@
+.textos1{
+   font-weight: bold !important; 
+}
+
+.imagem{
+    background-image: url(https://conteudo.imguol.com.br/blogs/307/files/2019/12/iStock-1152415533.jpg);
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.letra{    
+color:  #000000 !important;
+}
+
+
+.caixa{    
+    background:radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%) !important;
+}
+
+.cor2{
+    background: linear-gradient(342deg, rgba(15,0,255,1) 0%, rgba(0,212,255,1) 100%) !important;
+}

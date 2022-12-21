@@ -1,0 +1,28 @@
+.caixa{
+    background-color: #0125f3;
+}
+
+.titulo{
+   color: rgb(0, 0, 0) !important;
+   font-weight: bold !important;
+}
+
+.botao{
+    background: linear-gradient(342deg, rgba(15,0,255,1) 0%, rgba(0,212,255,1) 100%) !important;
+}
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.fundo{
+    background:radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%) !important;
+}
+
+.imagem2{
+    background-image: url(img/_107186747_descargamusica-removebg-preview.png);
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    
+}

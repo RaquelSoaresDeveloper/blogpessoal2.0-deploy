@@ -1,0 +1,13 @@
+.cursor{
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.bgnav {
+    background:radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(20,0,255,1) 100%) !important; 
+
+}

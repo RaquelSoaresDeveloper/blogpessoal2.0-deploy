@@ -1,0 +1,25 @@
+.imagem2{
+    background-image: url(https://media.istockphoto.com/id/658083370/pt/vetorial/colorful-music-instruments-with-music-notes.jpg?s=170667a&w=0&k=20&c=Tfrpho-OdMAzciWH3EbRomUR86G-XM4_BS8koaehZSk=);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.textos2{
+    font-weight: bold !important;
+}
+
+.btnCancelar{
+    margin-right: 20px !important;
+}
+
+.cor{
+    background:radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%) !important;
+}
+.lbpreto.label{
+    color: black;
+    opacity: calc(100%);
+}
+
